@@ -1,4 +1,4 @@
-# Tema_2_iocla
+# tema2_iocla
 
 Tema este formată din 4 exerciții independente. Fiecare task constă în implementarea unei sau mai multor funcții în limbaj de asamblare. Implementarea se realizează în fișierele puse la dispoziție pentru fiecare exercițiu.
 
