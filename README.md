@@ -1,6 +1,6 @@
-# tema2_iocla
 
-Tema este formată din 4 exerciții independente. Fiecare task constă în implementarea unei sau mai multor funcții în limbaj de asamblare. Implementarea se realizează în fișierele puse la dispoziție pentru fiecare exercițiu.
+
+4 exerciții independente: Fiecare task constă în implementarea unei sau mai multor funcții în limbaj de asamblare. Implementarea se realizează în fișierele puse la dispoziție pentru fiecare exercițiu.
 
 1. Sursee dorește să ajungă pe catedra din PR001 așa că trebuie să trimită mesaje criptate studenților că să afle cine o poate ajuta. Ea vrea să folosească simple cipher pentru a transmite mesajele.
 
@@ -106,9 +106,6 @@ Partea specială la acest algoritm este modul în care asociem caracterelor din 
 
 Astfel, ținând cont de dimensiunea matricii care reprezintă cheia și de dimensiunea textului (mereu vor fi corelate astfel încât numărul de elemente din matrice să fie egal cu numărul de litere din text) obținem întregul text criptat.
 
-Pe exemplul de mai sus, rezultatul va fi:
-
-MUeVSVWb\i^KU^DYbbLYXRH_D
 Sarcina voastră este să completați funcția spiral() din fișierul spiral.asm, astfel încât aceasta să cripteze un text în clar cu ajutorul unei chei date, folosind algoritmul prezentat mai sus. Antetul funcției este:
 
 void spiral(int N, char *plain, int key[N][N], char *enc_string)
